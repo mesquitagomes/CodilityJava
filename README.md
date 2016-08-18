@@ -1,2 +1,2 @@
 # Codility
-Codility lessions and tests
+Solutions to Codility lessons, tests and challenges in Java
