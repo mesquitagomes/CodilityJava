@@ -1,6 +1,4 @@
 # Codility
-========
-
 Java solutions to [Codility](https://codility.com/programmers/lessons/) + JUnit tests
 
 ##Lesson 1 [Iterations](https://codility.com/programmers/lessons/18)
