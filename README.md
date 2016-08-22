@@ -1,5 +1,5 @@
 # Codility
-Java solutions to [Codility](https://codility.com/programmers/lessons/) + JUnit tests
+Java solutions to [Codility](https://codility.com/programmers/lessons/) + [JUnit](http://junit.org/) tests
 
 ##Lesson 1 [Iterations](https://codility.com/programmers/lessons/18)
 - [x] Material ([code](#))
