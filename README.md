@@ -1,9 +1,9 @@
 # Codility
-Java solutions to [Codility](https://codility.com/programmers/lessons/) + [JUnit](http://junit.org/) tests
+Java solutions to [Codility](https://codility.com/programmers/lessons/) + My [JUnit](http://junit.org/) tests + Codility Test Result
 
 ##Lesson 1 [Iterations](https://codility.com/programmers/lessons/18)
-- [x] Material ([code](#))
-- [ ] BinaryGap ([code](#) / [results](#))
+- [x] Material ([code](http://goo.gl/dt98Dk))
+- [x] BinaryGap ([code](http://goo.gl/zDpj4G) / [junit](http://goo.gl/m2Abbg) / [results](https://codility.com/demo/results/trainingDTJXBY-VN9/))
 
 ##Lesson 2 [Arrays](https://codility.com/programmers/lessons/17)
 - [ ] Material ([code](#))
