@@ -6,7 +6,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class BinaryGapJUTest extends TestCase {
+public class BinaryGapTest extends TestCase {
 
 	private BinaryGap bg;
 	private int[] nArray = null;
