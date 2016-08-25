@@ -7,7 +7,7 @@ Java solutions to [Codility](https://codility.com/programmers/lessons/) + My [JU
 
 ##Lesson 2 [Arrays](https://codility.com/programmers/lessons/17)
 - [x] Material ([code](http://goo.gl/ydVCkT))
-- [ ] CyclicRotation ([code](http://goo.gl/xWQdgn) / [junit](#) / [results](#))
+- [ ] CyclicRotation ([code](http://goo.gl/xWQdgn) / [junit](#) / [results](https://codility.com/demo/results/trainingTM9JJC-5ZQ/))
 - [ ] OddOccurrencesInArray ([code](http://goo.gl/5i56AW) / [results](#))
 
 ##Lesson 3 [Time Complexity](https://codility.com/programmers/lessons/1)
