@@ -3,7 +3,7 @@ Java solutions to [Codility](https://codility.com/programmers/lessons/) + My [JU
 
 ##Lesson 1 [Iterations](https://codility.com/programmers/lessons/18)
 - [x] Material ([code](http://goo.gl/dt98Dk))
-- [x] BinaryGap ([code](http://goo.gl/zDpj4G) / [junit](http://goo.gl/m2Abbg) / [results](https://codility.com/demo/results/trainingDTJXBY-VN9/))
+- [x] BinaryGap ([code](http://goo.gl/zDpj4G) / [junit](http://goo.gl/wJf9y2) / [results](https://codility.com/demo/results/trainingDTJXBY-VN9/))
 
 ##Lesson 2 [Arrays](https://codility.com/programmers/lessons/17)
 - [x] Material ([code](http://goo.gl/ydVCkT))
