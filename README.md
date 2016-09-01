@@ -14,7 +14,7 @@ Java solutions to [Codility](https://codility.com/programmers/lessons/) + My [JU
 - [ ] Material ([code](#))
 - [ ] TapeEquilibrium ([code](#) / [junit](#) / [results](https://codility.com/demo/results/trainingX5CZKP-98Z/))
 - [ ] FrogJmp ([code](#) / [junit](#) / [results](https://codility.com/demo/results/trainingXR54CZ-JPD/))
-- [ ] PermMissingElem ([code](#) / [junit](#) / [results](#))
+- [ ] PermMissingElem ([code](#) / [junit](#) / [results](https://codility.com/demo/results/trainingSJA79X-3KK/))
 
 ##Lesson 4 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [ ] Material ([code](#))
