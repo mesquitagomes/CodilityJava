@@ -13,7 +13,7 @@ Java solutions to [Codility](https://codility.com/programmers/lessons/) + My [JU
 ##Lesson 3 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [ ] Material ([code](#))
 - [ ] TapeEquilibrium ([code](#) / [junit](#) / [results](https://codility.com/demo/results/trainingX5CZKP-98Z/))
-- [ ] FrogJmp ([code](#) / [junit](#) / [results](#))
+- [ ] FrogJmp ([code](#) / [junit](#) / [results](https://codility.com/demo/results/trainingXR54CZ-JPD/))
 - [ ] PermMissingElem ([code](#) / [junit](#) / [results](#))
 
 ##Lesson 4 [Counting Elements](https://codility.com/programmers/lessons/2)
