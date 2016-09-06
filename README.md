@@ -19,7 +19,7 @@ Java solutions to [Codility](https://codility.com/programmers/lessons/) + My [JU
 ##Lesson 4 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [ ] Material ([code](#))
 - [ ] PermCheck ([code](#) / [junit](#) / [results](https://codility.com/demo/results/trainingW6R44U-6XJ/))
-- [ ] MissingInteger ([code](#) / [junit](#) / [results](#))
+- [ ] MissingInteger ([code](#) / [junit](#) / [best results](https://codility.com/demo/results/trainingUDBQEM-NKE/) / [my results](https://codility.com/demo/results/trainingJ9MZ6W-UC6/))
 - [ ] FrogRiverOne ([code](#) / [junit](#) / [results](#))
 - [ ] MaxCounters ([code](#) / [junit](#) / [results](#))
 
