@@ -25,7 +25,7 @@ package br.com.mesquitagomes.codility.lessons.iterations;
  * expected worst-case time complexity is O(log(N)); expected worst-case space complexity is O(1). Copyright 2009–2016 by Codility Limited.
  * All Rights Reserved. Unauthorized copying, publication or disclosure prohibited.
  * 
- * @author a542445
+ * @author mesquitagomes
  *
  */
 public class BinaryGap {

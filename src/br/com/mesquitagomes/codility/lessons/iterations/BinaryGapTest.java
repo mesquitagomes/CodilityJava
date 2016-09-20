@@ -6,6 +6,10 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * @author mesquitagomes
+ *
+ */
 public class BinaryGapTest extends TestCase {
 
 	private BinaryGap bg;

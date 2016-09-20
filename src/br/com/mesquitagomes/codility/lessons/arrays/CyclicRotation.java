@@ -17,33 +17,13 @@ package br.com.mesquitagomes.codility.lessons.arrays;
  * 
  * Assume that:
  * 
- * - N and K are integers within the range [0 ... 100];
+ * * N and K are integers within the range [0 ... 100];
  * 
- * - each element of array A is an integer within the range [-1,000 ... 1,000]. In your
+ * * each element of array A is an integer within the range [-1,000 ... 1,000]. In your
  * 
  * solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
  * 
- * 
- * 
- * example example test OK
- * 
- * extreme_empty empty array OK
- * 
- * single one element, 0 <= K <= 5 OK
- * 
- * double two elements, K <= N OK
- * 
- * small1 small functional tests, K < N OK
- * 
- * small2 small functional tests, K >= N OK
- * 
- * small_random_all_rotations small random sequence, all rotations, N = 15 OK
- * 
- * medium_random medium random sequence, N = 100 OK
- * 
- * maximal maximal N and K
- * 
- * @author a542445
+ * @author mesquitagomes
  *
  */
 public class CyclicRotation {
@@ -66,7 +46,7 @@ public class CyclicRotation {
 	public static void main(String[] args) {
 
 		int[] A = { 3, 8, 9, 7, 6 };
-		int K = 3;
+		int K = 7;
 		// int[] A = { 3, 8, 9, 7, 6, 5 };
 		// int K = 12;
 
